@@ -1,6 +1,6 @@
 
 
-👋 Ciao! Sono Fabrizio Pala, nato il 1 agosto 1994 e vivo a Torino. Sono un appassionato sviluppatore web junior con un focus particolare sul front-end. Amo esplorare e sperimentare con le ultime tecnologie nel campo dello sviluppo web.
+👋 Ciao! Sono Fabrizio Pala. Sono un appassionato sviluppatore web junior con un focus particolare sul front-end. Amo esplorare e sperimentare con le ultime tecnologie nel campo dello sviluppo web.
 
 💻 Ho una forte passione per la creazione di esperienze utente coinvolgenti e intuitive attraverso l'uso di HTML, CSS e JavaScript. Sono sempre alla ricerca di modi per migliorare le mie competenze nel design e nell'implementazione di interfacce utente responsive e accessibili.
 
