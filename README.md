@@ -1,11 +1,4 @@
-👋 Junior Fullstack Web Developer interessato a collaborare su progetti open source e ad apprendere continuamente nuove tecnologie. Aperto a opportunità di crescita e sviluppo professionale. Contattami per collaborazioni e idee!
 
-
-
-User
-scrivi una descrizione più lunga, sono Fabrizio Pala v01/08/1994, vivo a torino, e sono uno svilupppatore web junior mi piacciono le nuove tecnologie e sopratutto il front end
-ChatGPT
-Certamente, ecco una descrizione più dettagliata:
 
 👋 Ciao! Sono Fabrizio Pala, nato il 1 agosto 1994 e vivo a Torino. Sono un appassionato sviluppatore web junior con un focus particolare sul front-end. Amo esplorare e sperimentare con le ultime tecnologie nel campo dello sviluppo web.
 
