@@ -8,5 +8,4 @@
 
 🔍 Oltre allo sviluppo di software, mi interesso anche di design UI/UX, ottimizzazione delle prestazioni e pratiche di sviluppo agile. Cerco sempre di rimanere aggiornato sulle best practice e le tendenze nel settore.
 
-📫 Se sei interessato a collaborare su progetti o semplicemente vuoi scambiare idee, non esitare a contattarmi! Sono entusiasta di fare nuove conoscenze nel mondo dello sviluppo web e di contribuire alla crescita della nostra community.
-
+📫 Se sei interessato a collaborare su progetti o semplicemente vuoi scambiare idee, non esitare a contattarmi!
